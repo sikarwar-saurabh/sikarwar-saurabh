@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Saurabh Sikarwar
 
-<!--
-**sikarwar-saurabh/sikarwar-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+* 🌱 Learning AWS, Docker, Kubernetes & CI/CD
+* 💻 Interested in Cloud & Automation
+* 🎯 Goal: DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+* AWS
+* Docker
+* Kubernetes
+* Jenkins
+* Linux
+* Git & GitHub
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/saurabhsingh936/
+- 📧 Email: [saurabhsikarwar936@gmail.com](mailto:saurabhsikarwar936@gmail.com)
+
+
+⭐️ *“Automate everything, deliver faster, and scale smarter.”*
+
+
